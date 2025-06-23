@@ -1,0 +1,31 @@
+Account Name,GL Code,Risk Rating,Control Description,Owner,Category,Frequency,Result,Status,Due Date,Last Updated,Control ID
+Cash,1001,High,Daily reconciliation of cash accounts,Emily Clark,Finance,Monthly,Fail,Active,2024-12-15,2024-01-15,CTRL-001
+Accounts Receivable,1100,Medium,Monthly AR aging review,Michael Chen,Finance,Quarterly,Pass,Active,2025-02-28,2024-12-01,CTRL-002
+Inventory,1200,Critical,Physical inventory count procedures,Sarah Johnson,Operations,Annual,Fail,Active,2024-11-30,2024-01-10,CTRL-003
+Fixed Assets,1500,Low,Depreciation calculation review,David Wilson,Finance,Annual,Pass,Active,2025-06-30,2024-12-15,CTRL-004
+Accounts Payable,2000,High,Vendor payment authorization,Robert Brown,Finance,Monthly,Fail,Active,2024-12-20,2024-01-05,CTRL-005
+Accrued Expenses,2100,Medium,Accrual calculation review,Jennifer Davis,Finance,Quarterly,Pass,Active,2025-03-15,2024-12-10,CTRL-006
+Revenue Recognition,4000,Critical,Revenue cutoff procedures,Lisa Anderson,Finance,Monthly,Fail,Active,2024-12-10,2024-01-12,CTRL-007
+Cost of Goods Sold,5000,High,COGS calculation accuracy,Thomas Martinez,Operations,Quarterly,Pass,Active,2025-01-31,2024-12-05,CTRL-008
+Payroll,6000,Medium,Payroll calculation review,Amanda White,HR,Monthly,Pass,Active,2025-02-15,2024-12-20,CTRL-009
+IT Security,7000,Critical,Access control procedures,James Lee,IT,Monthly,Fail,Active,2024-12-05,2024-01-08,CTRL-010
+Data Backup,7100,High,Backup verification procedures,Patricia Garcia,IT,Weekly,Pass,Active,2025-01-20,2024-12-18,CTRL-011
+Change Management,7200,Medium,System change approval process,Christopher Taylor,IT,Quarterly,Pass,Active,2025-04-30,2024-12-12,CTRL-012
+Vendor Management,8000,Low,Vendor performance review,Stephanie Rodriguez,Procurement,Annual,Pass,Active,2025-07-15,2024-12-25,CTRL-013
+Contract Management,8100,High,Contract review and approval,Daniel Thompson,Legal,Quarterly,Fail,Active,2024-12-25,2024-01-02,CTRL-014
+Financial Reporting,9000,Critical,Financial statement preparation,Melissa Harris,Finance,Quarterly,Fail,Active,2024-12-31,2024-01-01,CTRL-015
+Tax Compliance,9100,High,Tax calculation review,Andrew Miller,Tax,Quarterly,Pass,Active,2025-01-15,2024-12-30,CTRL-016
+Internal Audit,9200,Medium,Audit finding follow-up,Elizabeth Moore,Internal Audit,Monthly,Pass,Active,2025-02-28,2024-12-22,CTRL-017
+Risk Assessment,9300,Low,Annual risk assessment,Steven Jackson,Risk Management,Annual,Pass,Active,2025-08-31,2024-12-28,CTRL-018
+Compliance Monitoring,9400,High,Regulatory compliance review,Ashley Martin,Compliance,Monthly,Fail,Active,2024-12-18,2024-01-03,CTRL-019
+Documentation,9500,Medium,Control documentation review,Kevin Lee,Finance,Quarterly,Pass,Active,2025-03-31,2024-12-14,CTRL-020
+Bank Reconciliation,1002,High,Monthly bank reconciliation,Emily Clark,Finance,Monthly,Fail,Active,2024-12-22,2024-01-06,CTRL-021
+Credit Management,1101,Medium,Credit limit review process,Michael Chen,Finance,Quarterly,Pass,Active,2025-02-15,2024-12-08,CTRL-022
+Inventory Valuation,1201,Critical,Inventory valuation methods,Sarah Johnson,Operations,Annual,Fail,Active,2024-11-15,2024-01-09,CTRL-023
+Asset Impairment,1501,Low,Asset impairment testing,David Wilson,Finance,Annual,Pass,Active,2025-06-15,2024-12-16,CTRL-024
+Purchase Authorization,2001,High,Purchase order approval,Robert Brown,Finance,Monthly,Pass,Active,2025-01-31,2024-12-07,CTRL-025
+Expense Reimbursement,2101,Medium,Expense report review,Jennifer Davis,Finance,Monthly,Pass,Active,2025-02-10,2024-12-11,CTRL-026
+Sales Cutoff,4001,Critical,Sales cutoff procedures,Lisa Anderson,Finance,Monthly,Fail,Active,2024-12-12,2024-01-11,CTRL-027
+Inventory Cutoff,5001,High,Inventory cutoff procedures,Thomas Martinez,Operations,Quarterly,Pass,Active,2025-01-25,2024-12-06,CTRL-028
+Time Tracking,6001,Medium,Employee time tracking,Amanda White,HR,Monthly,Pass,Active,2025-02-20,2024-12-19,CTRL-029
+System Access,7001,Critical,User access provisioning,James Lee,IT,Monthly,Fail,Active,2024-12-08,2024-01-07,CTRL-030 

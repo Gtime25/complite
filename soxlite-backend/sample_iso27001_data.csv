@@ -1,0 +1,21 @@
+Control ID,Control Name,Annex A Reference,Control Owner,Status,Last Review Date,Evidence
+A.5.1.1,Information Security Policy,Annex A.5.1,Jane Doe,Pass,2023-06-01,Policy Document
+A.6.1.1,Roles and Responsibilities,Annex A.6.1,John Smith,Pass,2022-12-15,Org Chart
+A.7.1.1,Screening,Annex A.7.1,,Pass,2023-01-10,Screening Records
+A.8.1.1,Asset Inventory,Annex A.8.1,Emily Lee,Fail,2022-03-01,Asset List
+A.9.1.1,Access Control Policy,Annex A.9.1,Michael Chen,Not Implemented,2021-11-20,
+A.10.1.1,Cryptographic Controls,Annex A.10.1,Jane Doe,Pass,2023-05-15,Crypto Policy
+A.11.1.1,Physical Security,Annex A.11.1,John Smith,Pass,2022-07-01,Security Logs
+A.12.1.1,Operations Security,Annex A.12.1,Emily Lee,Pass,2023-02-20,Ops Manual
+A.13.1.1,Network Security,Annex A.13.1,Michael Chen,Pass,2022-08-10,Network Diagram
+A.14.1.1,System Acquisition,Annex A.14.1,Jane Doe,Pass,2023-03-05,Procurement Records
+A.15.1.1,Vendor Management,Annex A.15.1,John Smith,Fail,2021-10-01,
+A.16.1.1,Incident Management,Annex A.16.1,Emily Lee,Pass,2023-04-01,Incident Log
+A.17.1.1,Business Continuity,Annex A.17.1,Michael Chen,Pass,2022-09-15,BCP Plan
+A.18.1.1,Compliance,Annex A.18.1,Jane Doe,Pass,2023-01-25,Compliance Report
+A.19.1.1,Cloud Security,,John Smith,Pass,2022-06-01,Cloud Policy
+A.20.1.1,Data Privacy,Annex A.18.1,Emily Lee,Pass,2023-02-10,Privacy Policy
+A.21.1.1,User Training,Annex A.7.2,Michael Chen,Pass,2022-11-01,Training Records
+A.22.1.1,Mobile Device Policy,Annex A.6.2,Jane Doe,Pass,2023-05-01,Mobile Policy
+A.23.1.1,Remote Work,Annex A.6.3,John Smith,Pass,2022-12-01,Remote Work Policy
+A.24.1.1,Patch Management,Annex A.12.6,Emily Lee,Pass,2023-03-15,Patch Records 

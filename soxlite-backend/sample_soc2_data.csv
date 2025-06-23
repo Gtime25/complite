@@ -1,0 +1,22 @@
+Control ID,Control Description,Trust Service Criteria,Control Type,Status,Owner,Last Test Date,Test Frequency,Control Objective,Test Procedure,Evidence Required
+CC-001,Access Control Policy,CC,Preventive,Pass,IT Security,2024-01-15,Quarterly,Ensure only authorized users have access,Review access logs and user permissions,Access logs, user lists, policy documents
+CC-002,User Access Reviews,CC,Detective,Pass,IT Security,2024-01-20,Quarterly,Regular review of user access rights,Conduct quarterly access reviews,Review reports, approval documentation
+CC-003,Password Policy,CC,Preventive,Pass,IT Security,2024-01-10,Monthly,Strong password requirements,Test password complexity settings,Password policy, system settings
+DC-001,Data Backup Procedures,DC,Preventive,Pass,IT Operations,2024-01-25,Weekly,Regular data backups,Verify backup completion and restoration,Backup logs, test results
+DC-002,Disaster Recovery Plan,DC,Preventive,Pass,IT Operations,2024-01-30,Annually,DR plan documentation and testing,Review and test DR procedures,DR plan, test documentation
+AI-001,Change Management Process,AI,Preventive,Pass,IT Operations,2024-01-18,Monthly,Controlled system changes,Review change requests and approvals,Change tickets, approval logs
+AI-002,System Development Lifecycle,AI,Preventive,Pass,Development,2024-01-22,Quarterly,Secure development practices,Review development procedures,SDLC documentation, code reviews
+PR-001,Privacy Notice,PR,Preventive,Pass,Legal,2024-01-12,Annually,Clear privacy communication,Review privacy notices and policies,Privacy notices, policy documents
+PR-002,Data Classification,PR,Preventive,Pass,Data Governance,2024-01-28,Quarterly,Data sensitivity classification,Review data classification scheme,Classification matrix, data inventory
+SL-001,Service Level Agreements,SL,Preventive,Pass,Vendor Management,2024-01-14,Monthly,Define service expectations,Monitor SLA performance,SLA documents, performance reports
+SL-002,Vendor Risk Assessment,SL,Detective,Pass,Vendor Management,2024-01-16,Annually,Assess vendor risks,Conduct vendor assessments,Vendor questionnaires, risk reports
+CC-004,Multi-Factor Authentication,CC,Preventive,Fail,IT Security,2024-01-05,Monthly,Enforce MFA for all users,Test MFA implementation,MFA logs, system configuration
+DC-003,Data Encryption,DC,Preventive,Pass,IT Security,2024-01-08,Quarterly,Encrypt sensitive data,Verify encryption implementation,Encryption logs, key management
+AI-003,Incident Response Plan,AI,Preventive,Pass,IT Security,2024-01-11,Annually,Documented incident response,Review and test IR procedures,IR plan, test results
+PR-003,Data Retention Policy,PR,Preventive,Pass,Legal,2024-01-19,Annually,Define data retention periods,Review retention policies,Retention schedule, policy documents
+SL-003,Third-Party Monitoring,SL,Detective,Pass,Vendor Management,2024-01-24,Quarterly,Monitor third-party performance,Review vendor performance,Vendor reports, monitoring logs
+CC-005,Network Security Controls,CC,Preventive,Pass,IT Security,2024-01-13,Monthly,Protect network infrastructure,Review network security settings,Network logs, security configurations
+DC-004,Environmental Controls,DC,Preventive,Pass,Facilities,2024-01-17,Monthly,Protect physical infrastructure,Monitor environmental conditions,Environmental logs, maintenance records
+AI-004,Logical Access Controls,AI,Preventive,Pass,IT Security,2024-01-21,Monthly,Control logical access,Review access control implementation,Access logs, system configurations
+PR-004,Data Subject Rights,PR,Preventive,Pass,Legal,2024-01-26,Annually,Support data subject requests,Review DSAR procedures,DSAR procedures, response logs
+SL-004,Service Availability Monitoring,SL,Detective,Pass,IT Operations,2024-01-09,Weekly,Monitor service availability,Review availability metrics,Availability reports, monitoring logs 

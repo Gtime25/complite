@@ -1,0 +1,41 @@
+ESG Factor,Metric,Threshold,Value,Status,Owner,Due Date,Category,Priority,Last Updated,Metric ID
+Environmental,Carbon Emissions (tons CO2),1000,1200,Fail,Environmental Team,2024-12-15,Emissions,Critical,2024-01-15,ESG-001
+Environmental,Energy Efficiency (%),85,82,Fail,Facilities Manager,2025-02-01,Energy,High,2024-12-01,ESG-002
+Environmental,Waste Reduction (%),20,15,Fail,Waste Management,2024-11-30,Waste,High,2024-01-10,ESG-003
+Environmental,Water Usage (gallons),50000,48000,Pass,Environmental Team,2025-03-15,Water,Medium,2024-12-10,ESG-004
+Environmental,Renewable Energy (%),30,28,Fail,Energy Manager,2025-01-31,Energy,Critical,2024-12-05,ESG-005
+Environmental,Recycling Rate (%),75,78,Pass,Waste Management,2025-04-30,Waste,Medium,2024-12-12,ESG-006
+Environmental,Air Quality Index,50,45,Pass,Environmental Team,2025-02-28,Emissions,High,2024-12-22,ESG-007
+Environmental,Green Building Certifications,5,3,Fail,Facilities Manager,2025-06-30,Buildings,Medium,2024-12-25,ESG-008
+Environmental,Supply Chain Emissions,2000,2100,Fail,Procurement,2024-12-20,Supply Chain,Critical,2024-01-03,ESG-009
+Environmental,Biodiversity Impact Score,80,75,Fail,Environmental Team,2025-05-15,Biodiversity,High,2024-12-14,ESG-010
+Social,Employee Satisfaction Score,80,85,Pass,HR Director,2025-03-01,Workplace,High,2024-12-01,ESG-011
+Social,Diversity Ratio (%),30,28,Fail,HR Director,2025-02-15,Workplace,Critical,2024-12-08,ESG-012
+Social,Community Investment ($),50000,45000,Fail,CSR Manager,2024-11-20,Community,High,2024-01-09,ESG-013
+Social,Employee Training Hours,40,42,Pass,HR Director,2025-01-25,Workplace,Medium,2024-12-16,ESG-014
+Social,Health & Safety Incidents,5,3,Pass,Safety Manager,2025-02-10,Safety,High,2024-12-11,ESG-015
+Social,Supplier Diversity (%),25,22,Fail,Procurement,2025-04-15,Supply Chain,Medium,2024-12-06,ESG-016
+Social,Employee Turnover Rate (%),15,12,Pass,HR Director,2025-03-31,Workplace,High,2024-12-19,ESG-017
+Social,Local Hiring (%),60,58,Fail,HR Director,2025-05-30,Community,Medium,2024-12-28,ESG-018
+Social,Gender Pay Gap (%),5,6,Fail,HR Director,2024-12-25,Workplace,Critical,2024-01-02,ESG-019
+Social,Employee Benefits Score,85,87,Pass,HR Director,2025-06-15,Workplace,Medium,2024-12-30,ESG-020
+Governance,Board Independence (%),70,75,Pass,Corporate Secretary,2025-04-01,Board,Critical,2024-12-15,ESG-021
+Governance,Ethics Training Completion (%),95,92,Fail,Compliance Officer,2025-02-28,Compliance,High,2024-12-22,ESG-022
+Governance,Data Privacy Compliance (%),100,98,Fail,IT Security,2024-12-31,Technology,Critical,2024-01-01,ESG-023
+Governance,Anti-Corruption Training (%),90,88,Fail,Compliance Officer,2025-01-15,Compliance,High,2024-12-30,ESG-024
+Governance,Whistleblower Reports,10,8,Pass,Compliance Officer,2025-03-31,Compliance,Medium,2024-12-14,ESG-025
+Governance,Executive Compensation Ratio,300,280,Pass,Compensation Committee,2025-05-31,Compensation,High,2024-12-25,ESG-026
+Governance,Cybersecurity Incidents,3,5,Fail,IT Security,2024-12-18,Technology,Critical,2024-01-03,ESG-027
+Governance,Regulatory Fines ($),0,50000,Fail,Legal Department,2025-02-15,Compliance,Critical,2024-12-08,ESG-028
+Governance,Shareholder Engagement Score,85,82,Fail,Investor Relations,2025-04-30,Stakeholders,Medium,2024-12-12,ESG-029
+Governance,ESG Reporting Quality Score,90,87,Fail,Sustainability Team,2025-06-30,Reporting,High,2024-12-28,ESG-030
+Environmental,Plastic Usage Reduction (%),30,25,Fail,Procurement,2025-01-20,Materials,Medium,2024-12-07,ESG-031
+Environmental,EV Fleet Percentage (%),20,18,Fail,Fleet Manager,2025-03-15,Transportation,High,2024-12-11,ESG-032
+Environmental,Paper Usage (tons),100,95,Pass,Facilities Manager,2025-02-25,Materials,Medium,2024-12-06,ESG-033
+Social,Employee Mental Health Support,85,80,Fail,HR Director,2025-04-15,Wellness,High,2024-12-19,ESG-034
+Social,Supplier Code Compliance (%),95,93,Fail,Procurement,2025-01-31,Supply Chain,Critical,2024-12-16,ESG-035
+Social,Community Volunteer Hours,1000,950,Fail,CSR Manager,2025-05-31,Community,Medium,2024-12-30,ESG-036
+Governance,Board Gender Diversity (%),40,35,Fail,Corporate Secretary,2025-03-31,Board,High,2024-12-14,ESG-037
+Governance,ESG Committee Effectiveness,90,85,Fail,Sustainability Team,2025-06-15,Governance,High,2024-12-25,ESG-038
+Environmental,Circular Economy Initiatives,5,3,Fail,Sustainability Team,2025-07-31,Innovation,Medium,2024-12-28,ESG-039
+Social,Employee Development Programs,8,7,Fail,HR Director,2025-02-28,Workplace,High,2024-12-22,ESG-040 
