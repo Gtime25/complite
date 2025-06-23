@@ -4,12 +4,10 @@ services:
     name: complite-backend
     env: python
     plan: free
-    pythonVersion: "3.11"
+    pythonVersion: "3.10"
     buildCommand: chmod +x build.sh && ./build.sh
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
-      - key: PYTHON_VERSION
-        value: 3.11.7
       - key: OPENAI_API_KEY
         sync: false
       - key: JWT_SECRET_KEY

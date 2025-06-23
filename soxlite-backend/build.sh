@@ -12,13 +12,13 @@ echo "Upgrading pip..."
 pip install --upgrade pip
 
 echo "Installing numpy first (required for other packages)..."
-pip install "numpy>=2.0.0"
+pip install "numpy==1.26.2"
 
-echo "Installing pandas with Python 3.13 compatibility..."
-pip install "pandas>=2.3.0"
+echo "Installing pandas..."
+pip install "pandas==2.1.4"
 
 echo "Installing tiktoken separately..."
-pip install "tiktoken>=0.5.0"
+pip install "tiktoken==0.5.2"
 
 echo "Installing remaining requirements..."
 pip install -r requirements.txt
