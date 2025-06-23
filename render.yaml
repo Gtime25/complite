@@ -1,0 +1,26 @@
+services:
+  # Backend service
+  - type: web
+    name: complite-backend
+    env: python
+    plan: free
+    buildCommand: cd soxlite-backend && pip install -r requirements.txt
+    startCommand: cd soxlite-backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: SLACK_WEBHOOK_URL
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+
+  # Frontend service
+  - type: web
+    name: complite-frontend
+    env: static
+    plan: free
+    buildCommand: cd soxlite-frontend && npm install && npm run build
+    staticPublishPath: soxlite-frontend/build
+    envVars:
+      - key: REACT_APP_API_URL
+        value: https://complite-backend.onrender.com 
