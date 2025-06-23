@@ -1,16 +1,20 @@
 #!/bin/bash
+set -e
 
-# Upgrade pip
+echo "Installing system dependencies..."
+apt-get update -qq
+apt-get install -y build-essential
+
+echo "Upgrading pip..."
 pip install --upgrade pip
 
-# Install setuptools and wheel first
-pip install setuptools wheel
+echo "Installing numpy first (required for other packages)..."
+pip install numpy>=1.24.0
 
-# Install numpy first (dependency for pandas)
-pip install numpy==1.26.2
+echo "Installing tiktoken separately..."
+pip install tiktoken>=0.5.0
 
-# Install pandas
-pip install pandas==2.1.4
+echo "Installing remaining requirements..."
+pip install -r requirements.txt
 
-# Install the rest of the requirements
-pip install -r requirements.txt 
+echo "Build completed successfully!" 
