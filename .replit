@@ -1,0 +1,23 @@
+language = "python3"
+run = "cd soxlite-backend && uvicorn main:app --host 0.0.0.0 --port 8000"
+entrypoint = "soxlite-backend/main.py"
+
+[nix]
+channel = "stable-23_11"
+
+[env]
+PYTHONPATH = "soxlite-backend"
+
+[packager]
+language = "python3"
+
+[packager.features]
+packageSearch = true
+guessImports = true
+
+[languages.python3]
+pattern = "**/*.py"
+syntax = "python"
+
+[languages.python3.languageServer]
+start = [ "pylsp" ] 
